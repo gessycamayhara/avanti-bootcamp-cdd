@@ -10,7 +10,7 @@ embarked,indica o porto de embarcação do passageiro.,qualitativa,nominal
 class,Indica a classe do passageiro usando string.,qualitativa,ordinal
 who,"Indica se é um homem, mulher ou criança.",qualitativa,nominal
 adult_male,Indica se o passageiro é um homem adulto.,qualitativa,nominal
-deck,Indica o convés  do navio.,quanlitativa,ordinal
+deck,Indica o convés  do navio.,qualitativa,ordinal
 embark_town,Indica a cidade de embarque d passageiro.,qualitativa,nominal
 alive,Indica se o passageiro está vivo.,qualitativa,nominal
 alone,Indica se o passageiro estava sozinho.,qualitativa,nominal
